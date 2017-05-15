@@ -1,0 +1,10 @@
+ value="1">Planispheres
+value="2">Continent
+ value="3">Europe
+ value="4">France
+ value="5">Plan de Paris
+ value="6">Ile de France
+ value="8">Pays étrangers
+ value="9">Format sous-main
+ value="10">Enfants
+ value="11">Animaux sauvages

@@ -1,0 +1,115 @@
+[28-Mar-2017 14:36:43 Europe/Berlin] PHP Notice:  Undefined index: log in /var/www/html/AGT/include/admin.php on line 5
+[28-Mar-2017 14:36:43 Europe/Berlin] PHP Notice:  Undefined index: product_upload in /var/www/html/AGT/include/admin.php on line 17
+[28-Mar-2017 14:37:43 Europe/Berlin] PHP Notice:  Undefined index: log in /var/www/html/AGT/include/admin.php on line 5
+[28-Mar-2017 14:37:43 Europe/Berlin] PHP Notice:  Undefined index: product_upload in /var/www/html/AGT/include/admin.php on line 17
+[25-Apr-2017 10:54:54 Europe/Berlin] PHP Warning:  move_uploaded_file(upload/Barber001-LOGO.jpg): failed to open stream: No such file or directory in /var/www/html/AGT/admin.php on line 50
+[25-Apr-2017 10:54:54 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLizoRl' to 'upload/Barber001-LOGO.jpg' in /var/www/html/AGT/admin.php on line 50
+[25-Apr-2017 11:08:24 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /var/www/html/AGT/product_detail.php on line 11
+[25-Apr-2017 11:12:08 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 9
+[25-Apr-2017 11:12:08 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /var/www/html/AGT/product_detail.php on line 11
+[25-Apr-2017 11:14:32 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 9
+[25-Apr-2017 11:14:32 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /var/www/html/AGT/product_detail.php on line 11
+[25-Apr-2017 11:15:17 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 9
+[25-Apr-2017 11:15:17 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /var/www/html/AGT/product_detail.php on line 11
+[25-Apr-2017 11:16:24 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 9
+[25-Apr-2017 11:16:24 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /var/www/html/AGT/product_detail.php on line 11
+[25-Apr-2017 11:17:08 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 9
+[25-Apr-2017 11:17:08 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /var/www/html/AGT/product_detail.php on line 12
+[25-Apr-2017 11:17:29 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 9
+[25-Apr-2017 11:17:29 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 12
+[25-Apr-2017 11:17:39 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 12
+[25-Apr-2017 11:18:09 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 12
+[25-Apr-2017 11:18:50 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 12
+[25-Apr-2017 11:20:20 Europe/Berlin] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /var/www/html/AGT/product_detail.php on line 9
+[25-Apr-2017 11:20:20 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /var/www/html/AGT/product_detail.php on line 11
+[25-Apr-2017 11:20:56 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 11
+[25-Apr-2017 11:21:14 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 11
+[25-Apr-2017 11:25:20 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 11
+[25-Apr-2017 11:27:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/AGT/product_detail.php:14
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/AGT/product_detail.php on line 14
+[25-Apr-2017 11:28:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/AGT/product_detail.php:14
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/AGT/product_detail.php on line 14
+[25-Apr-2017 11:28:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/AGT/product_detail.php:13
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/AGT/product_detail.php on line 13
+[25-Apr-2017 11:29:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/AGT/product_detail.php:13
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/AGT/product_detail.php on line 13
+[25-Apr-2017 11:32:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/AGT/product_detail.php:13
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/AGT/product_detail.php on line 13
+[25-Apr-2017 11:35:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/AGT/product_detail.php on line 20
+[25-Apr-2017 11:35:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/AGT/product_detail.php on line 20
+[25-Apr-2017 11:40:19 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 9
+[25-Apr-2017 11:40:46 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 9
+[25-Apr-2017 11:40:46 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 10
+[25-Apr-2017 11:41:04 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 9
+[25-Apr-2017 11:41:04 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 10
+[25-Apr-2017 11:41:21 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 9
+[25-Apr-2017 11:41:21 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /var/www/html/AGT/product_detail.php on line 10
+[25-Apr-2017 11:42:14 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 9
+[25-Apr-2017 11:42:14 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 10
+[25-Apr-2017 13:56:14 Europe/Berlin] PHP Warning:  Illegal string offset 'product_title' in /var/www/html/AGT/product_detail.php on line 17
+[25-Apr-2017 14:14:56 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:14:56 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8oDut0' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:15:18 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:15:18 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQkJNka' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:16:13 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:16:13 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEGRN3e' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:18:29 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:18:29 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpc7ijOs' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:26:38 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:26:38 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjZFFBf' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:32:37 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:32:37 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php2ATbVY' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:33:16 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:33:16 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpIVUXvf' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:33:20 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:33:20 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSgKIuG' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:33:55 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:33:55 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpngdYNg' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:34:46 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:34:46 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFl2OIJ' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:35:09 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:35:09 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php875rCD' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:35:19 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:35:19 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkcpGDz' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:36:54 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:36:54 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3cQNxL' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:38:35 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:38:35 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCNAXVv' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:40:28 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:40:28 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcBkH0S' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:43:48 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:43:48 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUyjeAe' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:43:50 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:43:50 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnaCNWo' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:44:03 Europe/Berlin] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:44:03 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprjwMeG' to 'include/upload/' in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:46:50 Europe/Berlin] PHP Warning:  move_uploaded_file(/include/upload/): failed to open stream: No such file or directory in /var/www/html/AGT/admin.php on line 53
+[25-Apr-2017 14:46:50 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOsO8Cn' to '/include/upload/' in /var/www/html/AGT/admin.php on line 53
+[26-Apr-2017 11:38:25 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product_detail.php on line 10
+[26-Apr-2017 11:41:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?>' in /var/www/html/AGT/product_detail.php on line 10
+[30-Apr-2017 15:28:10 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product.php on line 20
+[30-Apr-2017 15:28:21 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product.php on line 20
+[30-Apr-2017 15:30:06 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product.php on line 20
+[30-Apr-2017 15:32:01 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /var/www/html/AGT/product.php on line 20
+[30-Apr-2017 15:32:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/AGT/product.php:22
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/AGT/product.php on line 22
+[30-Apr-2017 15:32:36 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /var/www/html/AGT/product.php on line 20
+[30-Apr-2017 15:32:38 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /var/www/html/AGT/product.php on line 20
+[30-Apr-2017 15:32:56 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product.php on line 20
+[30-Apr-2017 15:34:21 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product.php on line 21
+[30-Apr-2017 15:35:22 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product.php on line 23
+[30-Apr-2017 15:35:39 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product.php on line 23
+[30-Apr-2017 15:35:58 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product.php on line 23
+[30-Apr-2017 15:42:30 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product.php on line 24
