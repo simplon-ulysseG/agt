@@ -3,8 +3,12 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="asset/css/style.css">
+
+
     <script type="text/javascript" src="include/js/jquery.js"></script>
     <script type="text/javascript" src="include/js/menu.js"></script>
+  
+
     <title>AGT</title>
   </head>
   <body>

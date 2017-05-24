@@ -4,12 +4,12 @@ $( 'windows' ).ready(function(){
   var imgHeight = $('.img-detail').height();
 
   if (imgWidth == imgHeight){
-    $('.img-detail').attr('style','max-width:50%;max-height:50%;margin:2% 0;');
+    $('.img-detail').attr('style','max-width:50%;max-height:50%;margin:2% 25%;');
   }else if (imgWidth > imgHeight){
       if(imgWidth > 824){
-        $('.img-detail').attr('style','max-width:75%;margin:2% 0;');
+        $('.img-detail').attr('style','max-width:75%;margin:2% 12.5%;');
       }else if(imgWidth <= 824){
-        $('.img-detail').attr('style','width:auto;max-width:75%;margin:2% 0;');
+        $('.img-detail').attr('style','width:auto;max-width:75%;margin:2%'+(imgWidth / 2)+';');
       }else{
 
       }

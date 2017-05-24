@@ -19,17 +19,6 @@ $title_product = $_POST['product_title'];
 $content_product = $_POST['product_content'];
 $category_product = $_POST['product_category'];
 
-
-
-
-
-
-
-
-
-
-
-
 $dossier = 'include/upload/';
 $fichier = basename($_FILES['product_upload']['name']);
 $taille_maxi = 10000000000;

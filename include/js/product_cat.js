@@ -1,5 +1,5 @@
  value="1">Planispheres
-value="2">Continent
+ value="2">Continent
  value="3">Europe
  value="4">France
  value="5">Plan de Paris

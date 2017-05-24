@@ -113,3 +113,16 @@ Stack trace:
 [30-Apr-2017 15:35:39 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product.php on line 23
 [30-Apr-2017 15:35:58 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product.php on line 23
 [30-Apr-2017 15:42:30 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /var/www/html/AGT/product.php on line 24
+[22-May-2017 16:55:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/AGT/formEdit.php on line 40
+[22-May-2017 16:56:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/AGT/formEdit.php on line 40
+[22-May-2017 18:08:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/AGT/script.php on line 7
+[22-May-2017 18:08:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/AGT/script.php on line 7
+[22-May-2017 18:08:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/AGT/script.php on line 7
+[22-May-2017 18:08:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/AGT/script.php on line 7
+[22-May-2017 18:08:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/AGT/script.php on line 7
+[22-May-2017 18:08:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/AGT/script.php on line 7
+[22-May-2017 18:08:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/AGT/script.php on line 7
+[22-May-2017 18:08:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/AGT/script.php on line 7
+[22-May-2017 18:08:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/AGT/script.php on line 7
+[22-May-2017 18:08:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/AGT/script.php on line 7
+[23-May-2017 19:35:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?>' in /var/www/html/AGT/product.php on line 29

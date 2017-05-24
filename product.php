@@ -25,8 +25,10 @@
        <form class="form-product" action="product_detail.php" method="post">
          <button class="product-teaser" type="submit" name="submit_id_details" value="<?=$result['product_id']?>">
            <input type="hidden" class="category_product" value="<?=$result['product_category']?>" />
+           <div id="img-product">
            <img class="img-product" src="<?=$result['product_img_path']?>" />
-           <p class="title"><?=$result['product_title']?></p>
+           </div>
+           <!--<p class="title"><?//=$result['product_title']?></p>-->
 
        </button>
        </form>
@@ -38,6 +40,8 @@
 //}
 };?>
   </div>
+
+
   <?php include('footer.php')
 
    ?>
